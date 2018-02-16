@@ -1,0 +1,13 @@
+{
+  "name": "vue-ssr",
+  "version": "1.0.0",
+  "description": "Vue.js & Vue-Server-Renderer",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "nuxt": "^1.3.0"
+  }
+}
